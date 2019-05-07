@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FE2700032280F74B00F3CCB6 /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE2700022280F74B00F3CCB6 /* AboutViewController.swift */; };
+		FE27000522811B0000F3CCB6 /* AboutTheAutorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE27000422811B0000F3CCB6 /* AboutTheAutorViewController.swift */; };
 		FE6351A221DA69B300AD6200 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE6351A121DA69B300AD6200 /* AppDelegate.swift */; };
 		FE6351A421DA69B300AD6200 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE6351A321DA69B300AD6200 /* ViewController.swift */; };
 		FE6351A721DA69B300AD6200 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE6351A521DA69B300AD6200 /* Main.storyboard */; };
@@ -15,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FE2700022280F74B00F3CCB6 /* AboutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
+		FE27000422811B0000F3CCB6 /* AboutTheAutorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutTheAutorViewController.swift; sourceTree = "<group>"; };
 		FE63519E21DA69B300AD6200 /* Bullseye.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Bullseye.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FE6351A121DA69B300AD6200 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FE6351A321DA69B300AD6200 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -60,6 +64,8 @@
 				FE6351A821DA69B500AD6200 /* Assets.xcassets */,
 				FE6351AA21DA69B500AD6200 /* LaunchScreen.storyboard */,
 				FE6351AD21DA69B500AD6200 /* Info.plist */,
+				FE2700022280F74B00F3CCB6 /* AboutViewController.swift */,
+				FE27000422811B0000F3CCB6 /* AboutTheAutorViewController.swift */,
 			);
 			path = Bullseye;
 			sourceTree = "<group>";
@@ -135,7 +141,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FE2700032280F74B00F3CCB6 /* AboutViewController.swift in Sources */,
 				FE6351A421DA69B300AD6200 /* ViewController.swift in Sources */,
+				FE27000522811B0000F3CCB6 /* AboutTheAutorViewController.swift in Sources */,
 				FE6351A221DA69B300AD6200 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
